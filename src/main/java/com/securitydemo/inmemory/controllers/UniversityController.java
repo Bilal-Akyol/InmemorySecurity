@@ -1,4 +1,4 @@
-package com.securitydemo.inmemory.conrollers;
+package com.securitydemo.inmemory.controllers;
 import com.securitydemo.inmemory.services.UniversityService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
